@@ -27,7 +27,7 @@ g++ compiler installed and available in PATH
 
 ## Possible improvements 
 
-Currently, one correct algorithm was achieved in a single run of the script. Better results can likely be obtained by: improving the script, refining the prompts, adjusting the temperature, or trying different models.
+Currently, one correct algorithm was achieved in a single run of the script. Better results can likely be obtained by: improving the script, refining the prompts, adjusting the temperature, increasing amount of iterations, or trying different models.
 
 ## Current best result
 <img width="2000" height="600" alt="points_comparsion" src="https://github.com/user-attachments/assets/16a7ca9c-9934-4a8d-8ae4-9e1324bd96e3" />
